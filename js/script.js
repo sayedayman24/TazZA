@@ -99,7 +99,7 @@ $(".partner__slider").slick({
     }, {
         breakpoint: 600,
         settings: {
-            slidesToShow: 2,
+            slidesToShow: 1,
             dots: true,
             arrows: false
         }
